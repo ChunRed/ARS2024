@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://chunred.github.io/ARS2024/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://chunred.github.io/ARS2024/</loc>
+</url>
+<url>
+<loc>https://chunred.github.io/ARS2024/words-nowhere-to-go-2.html</loc>
+<lastmod>2024-06-21T11:15:17+10:00</lastmod>
+<image:image>
+<image:loc>https://chunred.github.io/ARS2024/media/posts/2/Vibration-and-TracesChi-Hung-HUANG_1.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chunred.github.io/ARS2024/words-nowhere-to-go-3.html</loc>
+<lastmod>2024-06-21T11:16:02+10:00</lastmod>
+<image:image>
+<image:loc>https://chunred.github.io/ARS2024/media/posts/3/BeggarYi-Jie-WU.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://chunred.github.io/ARS2024/words-nowhere-to-go.html</loc>
+<lastmod>2024-06-21T11:12:13+10:00</lastmod>
+<image:image>
+<image:loc>https://chunred.github.io/ARS2024/media/posts/1/002.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

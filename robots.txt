@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chunred.github.io/ARS2024/sitemap.xml

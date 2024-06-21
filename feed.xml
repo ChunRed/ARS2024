@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ARS2024</title>
+    <link href="https://chunred.github.io/ARS2024/feed.xml" rel="self" />
+    <link href="https://chunred.github.io/ARS2024" />
+    <updated>2024-06-21T11:16:02+10:00</updated>
+    <author>
+        <name>huang</name>
+    </author>
+    <id>https://chunred.github.io/ARS2024</id>
+
+    <entry>
+        <title>Beggar</title>
+        <author>
+            <name>huang</name>
+        </author>
+        <link href="https://chunred.github.io/ARS2024/words-nowhere-to-go-3.html"/>
+        <id>https://chunred.github.io/ARS2024/words-nowhere-to-go-3.html</id>
+        <media:content url="https://chunred.github.io/ARS2024/media/posts/3/BeggarYi-Jie-WU.jpg" medium="image" />
+
+        <updated>2024-06-21T11:16:02+10:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://chunred.github.io/ARS2024/media/posts/3/BeggarYi-Jie-WU.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Vibration and Traces</title>
+        <author>
+            <name>huang</name>
+        </author>
+        <link href="https://chunred.github.io/ARS2024/words-nowhere-to-go-2.html"/>
+        <id>https://chunred.github.io/ARS2024/words-nowhere-to-go-2.html</id>
+        <media:content url="https://chunred.github.io/ARS2024/media/posts/2/Vibration-and-TracesChi-Hung-HUANG_1.jpg" medium="image" />
+
+        <updated>2024-06-21T11:15:17+10:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://chunred.github.io/ARS2024/media/posts/2/Vibration-and-TracesChi-Hung-HUANG_1.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Words Nowhere to Go</title>
+        <author>
+            <name>huang</name>
+        </author>
+        <link href="https://chunred.github.io/ARS2024/words-nowhere-to-go.html"/>
+        <id>https://chunred.github.io/ARS2024/words-nowhere-to-go.html</id>
+        <media:content url="https://chunred.github.io/ARS2024/media/posts/1/002.jpg" medium="image" />
+
+        <updated>2024-06-21T11:12:13+10:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://chunred.github.io/ARS2024/media/posts/1/002.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
